@@ -15,4 +15,4 @@ Feel free to connect with me or check out my projects here on GitHub. For inquir
 
 ---
 Carson Lee  
-[LinkedIn](https://www.linkedin.com/in/carson-lee) | [Portfolio](https://carsonlee.ca) | [GitHub](https://github.com/CarsonLeee)
+[LinkedIn](https://www.linkedin.com/in/carson-lee) | [Portfolio](https://carsonlee.ca) | [Devpost](https://devpost.com/CarsonLeee)
